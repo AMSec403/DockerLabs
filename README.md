@@ -1,4 +1,4 @@
-# **DockerLabs**
+# DockerLabs
 
 ---
 
