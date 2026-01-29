@@ -2,11 +2,11 @@
 
 ## Descargo de responsabilidad
 
-El contenido de este repositorio tiene fines **exclusivamente educativos y profesionales**.  
-Los ejercicios, writeups y demostraciones aquí descritos están orientados al aprendizaje de ciberseguridad, administración de sistemas y técnicas de mitigación.  
+El contenido de este repositorio tiene fines **únicamente educativos y profesionales**.  
+Los ejercicios, writeups y demostraciones aquí presentados están orientados al aprendizaje de ciberseguridad, administración de sistemas y técnicas de mitigación.  
 
-No deben ser utilizados con fines maliciosos ni para realizar pruebas de penetración en sistemas sin la debida autorización.
+Queda estrictamente prohibido utilizar esta información con fines maliciosos o para realizar pruebas de penetración en sistemas sin la debida autorización.  
 
-**El autor no se hace responsable del uso indebido de la información contenida en este proyecto.**
+**El autor no asume responsabilidad alguna por el uso indebido de los materiales contenidos en este proyecto.**
 
 ---
