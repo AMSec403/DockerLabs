@@ -17,7 +17,7 @@ ping 10.88.0.2
 nmap -sC -sV -oN firsthacking.txt 10.88.0.2
 ```
 
-![reconocimiento.png](.\images\reconocimiento.png)
+![reconocimiento.png](./images/reconocimiento.png)
 
 Con esto logramos identificar que tenemos abierto el puerto 21, por el cual corre el servicio de vsftp 2.3.4
 
