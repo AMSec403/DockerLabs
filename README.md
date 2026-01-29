@@ -9,6 +9,6 @@ Los ejercicios, writeups y demostraciones aquí descritos están orientados al a
 
 No deben ser utilizados con fines maliciosos ni para realizar pruebas de penetración en sistemas sin la debida autorización.
 
-**El autor no se hace responsable del uso indebido de la información contenida en este proyecto.
+**El autor no se hace responsable del uso indebido de la información contenida en este proyecto.**
 
 ---
